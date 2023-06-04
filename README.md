@@ -1,4 +1,4 @@
-# Bungee fuel
+# Bungee refuel
 [Bungee fuel](https://www.bungee.exchange/refuel) - удобный мост для бриджа нативных токенов между сетями с маленькой комиссией.
 
  - Поддерживаемые сети в скрипте: *Arbitrum, Avalanche, BSC, Polygon, Fantom*
