@@ -1,7 +1,9 @@
-# Bungee refuel
+# Bungee fuel
 [Bungee fuel](https://www.bungee.exchange/refuel) - удобный мост для бриджа нативных токенов между сетями с маленькой комиссией.
 
  - Поддерживаемые сети в скрипте: *Arbitrum, Avalanche, BSC, Polygon, Fantom*
+ P.S. Перед использованием обязательно проверьте на самом сайте можно ли бриджить количество токенов которое вы хотите. По сути это просто ограничение на фронтенде и должно трансфернуть хоть сколько, on **your own risk** как говорится.
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/z45TTVv/bungee.png" alt="bungee" border="0"></a><br/>
 ## Настройка
  Скрипт запускается через файл `start_refuel.py`
  Все настройки производятся в файле `config.py`:
