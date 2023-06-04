@@ -1,0 +1,17 @@
+{
+  "Arbitrum": [
+    "https://1rpc.io/arb"
+  ],
+  "Avalanche": [
+    "https://rpc.ankr.com/avalanche"
+  ],
+  "BSC": [
+    "https://rpc.ankr.com/bsc"
+  ],
+  "Fantom": [
+    "https://rpc.ankr.com/fantom"
+  ],
+  "Polygon": [
+    "https://rpc.ankr.com/polygon"
+  ]
+}

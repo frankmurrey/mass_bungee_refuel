@@ -1,0 +1,1 @@
+from contracts.bsc.main import BSC
