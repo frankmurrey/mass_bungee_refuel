@@ -99,8 +99,8 @@ class Refuel:
             max_amount=config.MAX_NATIVE_AMOUNT_OUT)
 
         if wallet_balance_wei < native_amount_out_wei:
-            logger.error(f"Not enough native ({native_amount_out} {self.source_chain.name}) "
-                         f"to refuel. Balance: {wallet_balance_decimals} {self.source_chain.name}")
+            logger.error(f"Not enough native ({native_amount_out} {self.source_chain.chain_name}) "
+                         f"to refuel. Balance: {wallet_balance_decimals} {self.source_chain.chain_name}")
             return
 
         refuel_txn = self.build_refuel_txn(native_amount_out=native_amount_out_wei)
